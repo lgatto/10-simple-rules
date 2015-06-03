@@ -1,4 +1,4 @@
-# 10 simple rules for "reviewing" scientific software/methodology
+# 10 simple rules for reviewing scientific software/methodology
 
 Our objective is to write  - 
 
