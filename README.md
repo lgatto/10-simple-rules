@@ -17,3 +17,4 @@ I think we should try to make this a community effort, and point this work out t
 ### References
 - [Managing Expectations When Publishing Tools and Methods for Computational Proteomics](http://pubs.acs.org/doi/abs/10.1021/pr501318d)
 - There are many online references - I will add them here
+- Poisot, Timothée (2015): [Best publishing practices to improve user confidence in scientific software](http://figshare.com/articles/Best_publishing_practices_to_improve_user_confidence_in_scientific_software/1434688) figshare.
