@@ -1,6 +1,4 @@
-# 10 simple rules to publish scientific software
-Seems  very similar to - Ten Simple Rules for the Open Development of Scientific
-Software (but we can write this as well).
+# 10 simple rules for "reviewing" scientific software/methodology
 
 Our objective is to write  - 
 
@@ -18,3 +16,4 @@ I think we should try to make this a community effort, and point this work out t
 - [Managing Expectations When Publishing Tools and Methods for Computational Proteomics](http://pubs.acs.org/doi/abs/10.1021/pr501318d)
 - There are many online references - I will add them here
 - Poisot, Timothée (2015): [Best publishing practices to improve user confidence in scientific software](http://figshare.com/articles/Best_publishing_practices_to_improve_user_confidence_in_scientific_software/1434688) figshare.
+- [Ten Simple Rules for the Open Development of Scientific Software[(http://journals.plos.org/ploscollections/article?id=10.1371/journal.pcbi.1002802)
