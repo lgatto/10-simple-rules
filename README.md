@@ -6,6 +6,10 @@ Ten simple rules for "reviewing" scientific software/methodology . We wont focus
 
 I think we should try to make this a community effort, and point this work out to specific people that have already blogged about the issue (references can be added in ref section) and invite them to contribute (agreed, but we'll be choosy in inviting select people). 
 
+### Relevant questions
+
+- Could a user repeat, replicate, reproduce and/or reuse the method/software?
+- Does the method/software offer a better understanding of the problem before offering a solution? 
 
 ### Examples of successful bioinformatics research software
 
