@@ -10,6 +10,8 @@ I think we should try to make this a community effort, and point this work out t
 
 - Could a user repeat, replicate, reproduce and/or reuse the method/software?
 - Does the method/software offer a better understanding of the problem before offering a solution? 
+- Encapsulation: does the method/solution expose the right level of details?
+- Is the mehtod/software targeted to the right audience?
 
 ### Examples of successful bioinformatics research software
 
